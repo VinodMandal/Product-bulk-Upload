@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Product Details_mdc-tab__ripple mdc-ri_d91f00</name>
+   <tag></tag>
+   <elementGuidId>f73ff3ff-1695-4451-b715-279594239244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mdc-tab__ripple.mdc-ripple-upgraded.mdc-ripple-upgraded--foreground-activation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='mdc-tab-2']/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-tab__ripple mdc-ripple-upgraded mdc-ripple-upgraded--foreground-activation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mdc-tab-2&quot;)/span[@class=&quot;mdc-tab__ripple mdc-ripple-upgraded mdc-ripple-upgraded--foreground-activation&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='mdc-tab-2']/span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[3]</value>
+   </webElementXpaths>
+</WebElementEntity>
