@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://acviss.co/dashboard/login/')
+WebUI.navigateToUrl('https://url')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login  Acviss/input_Username_username'), 'acvissadmin')
 
